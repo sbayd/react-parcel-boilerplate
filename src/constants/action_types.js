@@ -1,0 +1,8 @@
+export const UI_ACTIONS = {
+  UPDATE_NAME: 'UPDATE_NAME',
+  INCREMENT_COUNT: 'INCREMENT_COUNT'
+};
+
+export const TEST_ACTION = {
+  ACTION_1: 'ACTION_1'
+};
