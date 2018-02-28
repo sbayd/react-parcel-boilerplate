@@ -2,6 +2,7 @@ import React from 'react';
 import { connect } from 'react-redux';
 import { bindActionCreators } from 'redux';
 import * as UI_ACTIONS from './actions/ui_actions';
+import './styles/index.scss';
 
 class App extends React.Component {
 
