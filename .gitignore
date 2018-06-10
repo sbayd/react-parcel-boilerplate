@@ -53,3 +53,5 @@ node_modules/
 .cache/
 dist/
 *.lock
+
+package-lock.json

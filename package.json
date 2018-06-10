@@ -11,24 +11,24 @@
     "start": "parcel public/index.html"
   },
   "dependencies": {
-    "babel-polyfill": "^6.26.0",
-    "lodash": "^4.17.4",
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0",
-    "react-redux": "^5.0.6",
-    "redux": "^3.7.2",
-    "redux-thunk": "^2.2.0"
+    "babel-polyfill": "6.26.0",
+    "lodash": "4.17.10",
+    "react": "16.4.0",
+    "react-dom": "16.4.0",
+    "react-redux": "5.0.7",
+    "redux": "4.0.0",
+    "redux-thunk": "2.3.0"
   },
   "devDependencies": {
-    "autoprefixer": "^8.0.0",
-    "babel-plugin-transform-object-rest-spread": "^6.26.0",
-    "babel-preset-env": "^1.6.1",
-    "babel-preset-react": "^6.24.1",
-    "eslint": "^4.13.0",
-    "eslint-plugin-react": "^7.5.1",
-    "mocha": "^4.0.1",
-    "node-sass": "^4.7.2",
-    "parcel-bundler": "^1.1.0",
-    "postcss-modules": "^1.1.0"
+    "autoprefixer": "8.6.2",
+    "babel-plugin-transform-object-rest-spread": "6.26.0",
+    "babel-preset-env": "1.7.0",
+    "babel-preset-react": "6.24.1",
+    "eslint": "4.19.1",
+    "eslint-plugin-react": "7.9.1",
+    "mocha": "5.2.0",
+    "node-sass": "4.9.0",
+    "parcel-bundler": "1.8.1",
+    "postcss-modules": "1.1.0"
   }
 }
